@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mcelen.dev</title>
+    <link>https://mcelen.dev/</link>
+    <description>Recent content on mcelen.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Wed, 17 Jun 2020 02:24:11 +0300</lastBuildDate>
+    
+	<atom:link href="https://mcelen.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Merhaba Dünya</title>
+      <link>https://mcelen.dev/posts/hello-world/</link>
+      <pubDate>Wed, 17 Jun 2020 02:24:11 +0300</pubDate>
+      
+      <guid>https://mcelen.dev/posts/hello-world/</guid>
+      <description>Bir kez daha Merhaba Dünya!</description>
+    </item>
+    
+  </channel>
+</rss>

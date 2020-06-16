@@ -2,4 +2,4 @@ baseURL = "https://mcelen.dev/"
 languageCode = "tr-tr"
 title = "mcelen.dev"
 theme = "paper"
-
+publishDir = "docs"
